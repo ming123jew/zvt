@@ -484,23 +484,3 @@ pycharm导入工程(推荐,你也可以使用其他ide)，然后pytest跑测试�
 
 也非常欢迎开发者能为 zvt 提供更多的示例，共同来完善文档。
 
-## 💌请作者喝杯咖啡
-
-如果你觉得项目对你有帮助,可以请作者喝杯咖啡  
-<img src="https://raw.githubusercontent.com/zvtvz/zvt/master/docs/imgs/alipay-cn.png" width="25%" alt="Alipay">　　　　　
-<img src="https://raw.githubusercontent.com/zvtvz/zvt/master/docs/imgs/wechat-cn.png" width="25%" alt="Wechat">
-
-## 🤝联系方式  
-
-加微信进群:foolcage 添加暗号:zvt  
-<img src="https://raw.githubusercontent.com/zvtvz/zvt/master/docs/imgs/wechat.jpeg" width="25%" alt="Wechat">
-
-------
-微信公众号:  
-<img src="https://raw.githubusercontent.com/zvtvz/zvt/master/docs/imgs/gongzhonghao.jpg" width="25%" alt="Wechat">
-
-知乎专栏:  
-https://zhuanlan.zhihu.com/automoney
-
-## Thanks
-<p><a href=https://www.jetbrains.com/?from=zvt><img src="https://raw.githubusercontent.com/zvtvz/zvt/master/docs/imgs/jetbrains.png" width="25%" alt="jetbrains"></a></p>
